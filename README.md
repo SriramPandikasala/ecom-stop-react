@@ -1,4 +1,8 @@
-# Install dependencies
+# ECommerce Application using React
+
+The dist file is served through custom Express server
+
+## Install dependencies
 * This will install both UI and ui-server dependencies 
 * <code>npm run dev:install</code>
 
@@ -6,7 +10,7 @@
 <br/>
 
 
-# Start a CSR App though the custom UI server for development
+## Start a CSR App though the custom UI server for development
 
 * What is CSR App? Client-Side Rendered Application. 
     * The custom express server serves `index.html` of React build files
